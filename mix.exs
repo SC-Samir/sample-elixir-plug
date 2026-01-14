@@ -5,7 +5,7 @@ defmodule SampleElixirPlug.MixProject do
     [
       app: :sample_elixir_plug,
       version: "1.0.0",
-      elixir: "~> 1.16",
+      elixir: "~> 1.17",
       build_embedded: Mix.env() == :prod,
       start_permanent: Mix.env() == :prod,
       deps: deps()

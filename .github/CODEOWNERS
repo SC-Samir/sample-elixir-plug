@@ -1,4 +1,4 @@
 # CODEOWNERS
 
-mix.exs @SC-Samir
-mix.lock @SC-Samir
+mix.exs @scalingo/devrel
+mix.lock @scalingo/devrel

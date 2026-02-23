@@ -1,0 +1,4 @@
+# CODEOWNERS
+
+mix.exs @SC-Samir
+mix.lock @SC-Samir

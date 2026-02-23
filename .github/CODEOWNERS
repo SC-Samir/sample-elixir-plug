@@ -1,0 +1,4 @@
+# CODEOWNERS
+
+mix.exs @scalingo/devrel
+mix.lock @scalingo/devrel
